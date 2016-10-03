@@ -1,2 +1,2 @@
 # Second-repo2016-2017
-Second-repo2016-2017/CV2016-2017.md
+https://github.com/littleskyline/Second-repo2016-2017/blob/gh-pages/CV2016-2017.md
